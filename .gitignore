@@ -69,3 +69,6 @@ debian/control
 debian/copyright
 artifacts/
 build
+
+# CLion
+.idea
